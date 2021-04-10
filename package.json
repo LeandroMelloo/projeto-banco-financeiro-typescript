@@ -1,0 +1,29 @@
+{
+  "name": "projeto_banco_financeiro_typescript",
+  "version": "1.0.0",
+  "description": "Projeto Banco Financeiro com Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMelloo/projeto_banco_financeiro_typescript.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Typescript",
+    "Bootstrap"
+  ],
+  "author": "Leandro Mello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeandroMelloo/projeto_banco_financeiro_typescript/issues"
+  },
+  "homepage": "https://github.com/LeandroMelloo/projeto_banco_financeiro_typescript#readme",
+  "devDependencies": {
+    "typescript": "^2.3.3"
+  }
+}
